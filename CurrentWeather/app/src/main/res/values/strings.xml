@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CurrentWeather</string>
+    <string name="title_city_location">CityLocation</string>
+    <string name="title_city_weather">CitiesWeather</string>
+    <string name="search_title">Search</string>
+    <string name="error_msg">Error</string>
+    <string name="the_weather_in">The weather in ... </string>
+    <string name="fahrenheit">\u0020F</string>
+</resources>
